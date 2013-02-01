@@ -18,7 +18,7 @@ import combinator.Combinator;
 public class AprioriAlgorithm {
 	
 	public static void main(String args[]){
-		Set<ItemPair> results = aprioritizer(); // final results	
+		Set<ItemPair> results = aprioritizer(); // final results
 	}
 
 	private static void printItemPairs(Set<ItemPair> results) {
